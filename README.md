@@ -1,4 +1,4 @@
-# EncSIM
+- # EncSIM
 
 
 ## Brife Introduction
@@ -53,3 +53,4 @@ In this project, we parse the CSV file to use pure tweet text(field 5th).
 ## MAINTAINER
 - Maggie LIU xiaoning.trust@gmail.com
 - Xingliang YUAN xyuancs@gmail.com
+- Cong Wang congwang@cityu.edu.hk
